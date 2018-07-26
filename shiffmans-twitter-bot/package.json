@@ -1,0 +1,27 @@
+{
+  "name": "shiffmans-twitter-bot",
+  "version": "1.0.0",
+  "description": "Following Daniel Shiffmans tutorial",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickBr0wn/twitter-bots.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Rick Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickBr0wn/twitter-bots/issues"
+  },
+  "homepage": "https://github.com/RickBr0wn/twitter-bots#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "twit": "^2.2.11"
+  }
+}
