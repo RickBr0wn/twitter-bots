@@ -3,6 +3,7 @@ const twitConfigKeys = require('./config/keys')
 
 const T = new Twit(twitConfigKeys)
 
+
 // Search tweets :: GET()
 //
 // const paramsObj = { q: 'brexit', count: 5}

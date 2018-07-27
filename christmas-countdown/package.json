@@ -1,0 +1,21 @@
+{
+  "name": "christmas-countdown",
+  "version": "1.0.0",
+  "description": "A Countdown to Christmas Twitter Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Christmas",
+    "Countdown",
+    "Twitter",
+    "Bot"
+  ],
+  "author": "Rick Brown",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
